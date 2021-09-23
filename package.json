@@ -2,7 +2,7 @@
   "name": "template_ts_node_backend",
   "version": "1.0.0",
   "description": "template for nodejs backend projects in typescript",
-  "main": "./dist/index.ts",
+  "main": "./dist/index.js",
   "repository": "https://github.com/CBernjus/template_ts_node_backend.git",
   "author": "Christopher Bernjus <christopher.bernjus@stud.tu-darmstadt.de>",
   "license": "MIT",
